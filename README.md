@@ -31,7 +31,7 @@ To provide backend functionality for an e-commerce store.
 Please click the link below to be taken to a video walkthrough of the project. 
 
 
-[![This is a screenshot/demo of the project.](./images/BackEndScreenshot.png)](https://youtu.be/A3_7BDgmx7Q)
+[![This is a screenshot/demo of the project.](./Images/BackEndScreenshot.png)](https://youtu.be/A3_7BDgmx7Q)
 
 ## Tests
 
